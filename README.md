@@ -2,7 +2,7 @@
 ## Setup
 ### provide the connection string of the iot hub device in the main.c 
 ## Info 
-The compiled libraries here are for armhf.
+The compiled libraries here are for armhf. Compile them by yourself and replace them (lib subfolder) for other platforms.
 
 You get the libraries linked by this sample by compiling the [azure-iot-sdks](https://github.com/Azure/azure-iot-sdks/tree/master/c "azure-iot-sdks c"). 
 
