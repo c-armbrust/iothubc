@@ -2,7 +2,7 @@
 ## Setup
 ### provide the connection string of the iot hub device in the main.c 
 ## Info 
-You get the libraries linked by this sample by compiling the [azure-iot-sdks](https://github.com/Azure/azure-iot-sdks/tree/master/c "azure-iot-sdks c").
+You get the libraries linked by this sample by compiling the [azure-iot-sdks](https://github.com/Azure/azure-iot-sdks/tree/master/c "azure-iot-sdks c"). Look how to [prepare your development environment](https://github.com/Azure/azure-iot-sdks/blob/master/c/doc/devbox_setup.md#linux).
 
 After building the sdk the path of the here used libraries is:
 
