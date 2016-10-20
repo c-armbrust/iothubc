@@ -10,7 +10,7 @@ Look how to [prepare your development environment](https://github.com/Azure/azur
 
 After building the sdk the path of the here used libraries is:
 
-azure-iot-sdks/c/cmake
+azure-iot-sdks/c/cmake/iotsdk_linux
   * /azure-uamqp-c -> libuamqp.a
   * /azure-c-shared-utility -> libaziotsharedutil.a
   * /iothub_client -> libiothub_client_amqp_transport.a, libiothub_client.a
