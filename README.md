@@ -1,6 +1,8 @@
 # iothubc
 ## Setup
-### provide the connection string of the iot hub device in the main.c 
+Provide the connection string of the iot hub device in the main.c. 
+
+The [Device Explorer](https://github.com/Azure/azure-iot-sdks/blob/master/doc/manage_iot_hub.md) can copy it in the Management tab.
 ## Info 
 The compiled libraries here are for armhf. Compile them by yourself and replace them (lib subfolder) for other platforms.
 
